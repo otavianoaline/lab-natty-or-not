@@ -27,8 +27,7 @@ que desejava transmitir.
 
 ## 🚀 Resultados  
 O resultado final é um vídeo que apresenta de forma clara e dinâmica a minha evolução profissional
-e pode ser acessado em:
-[Vídeo no Pictory.ai](https://video.pictory.ai/1737551453125/20250122132700131fxBdLFSO0qajBaB)  
+e pode ser acessado em: [Apresentação](https://1drv.ms/v/c/29dc380d89ca7083/Ee1fkL_gQHxPnI-IXU-ZwXoBn_J5zxm0YvDTO1QfjH4KwQ?e=cx9imI)
 
 ## 💭 Reflexão  
 Este projeto foi mais do que uma simples demonstração das capacidades das IAs generativas;
